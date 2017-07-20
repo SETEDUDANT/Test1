@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titletextlayout">17sp</dimen>
+    <dimen name="textlayout">13sp</dimen>
+
+</resources>
